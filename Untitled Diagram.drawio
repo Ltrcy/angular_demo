@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-04T08:26:12.478Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="uPCOfY_Sg0197SWC8CP-" version="14.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-04T11:10:00.896Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="s761mjc0OAwPwoZp49LF" version="14.1.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2596" dy="2791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -382,7 +382,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pRF9uQ5kpAVEQRunsSqT-250" value="User(用户实体类)&#xa;" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;noLabel=0;resizable=1;movable=1;backgroundOutline=0;editable=1;moveCells=0;pointerEvents=1;deletable=1;cloneable=1;rotatable=1;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="874" y="50" width="296" height="510" as="geometry">
+          <mxGeometry x="908" y="100" width="296" height="510" as="geometry">
             <mxRectangle x="130" y="380" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
